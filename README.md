@@ -1,5 +1,3 @@
-# SoftwareTechnology
-
 <br />
 <div align="center">
   <h1 align="center"> Software Technology </h1>
